@@ -1,8 +1,9 @@
              I’m @Migueldev-js   
            Miguel Ortiz | WebDev
-🧠 - Obtenga consejos y recursos de Frontend
-💻 - HTML + CSS + JavaScript + Reaccionar
-📲 - Únase para contenido relacionado con Frontend
+- 🧠 Obtenga consejos y recursos de Frontend
+- 💻 HTML + CSS + JavaScript + Reaccionar
+- 📲 Únase para contenido relacionado con Frontend
+- 📫 Cómo contactarme: miguel.ortiz.e13@gmail.com
 
 
 <!---
