@@ -1,4 +1,4 @@
-<img src="https://github.com/Migueldev-js/Migueldev-js/commit/3ef9f34699a47e08fc9b2a08550476a94e1cea86" alt="pancarta Migueldev.js">
+<img src="Black and White Photographic Accounting Service Website.jpg" alt="pancarta Migueldev.js">
 
 - 🧠 Obtenga consejos y recursos de Frontend
 - 💻 HTML + CSS + JavaScript + Reaccionar
